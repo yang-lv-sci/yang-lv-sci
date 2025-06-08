@@ -16,11 +16,11 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="个人主页"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="个人主页"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="个人主页"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="个人主页"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="个人主页"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=yang-lv-sci&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
@@ -45,8 +45,8 @@
 
 <img align="right" width="88" src="job/证件照.jpg" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;嗨，你好，我是小吕同学。热爱编程、游戏、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和 AI 算法事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
